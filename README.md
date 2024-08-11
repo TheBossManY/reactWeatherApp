@@ -1,3 +1,11 @@
+Hello, I am Pragalbh Mishra, a front-end and (undertraining) backend developer. Here is the simplest project i got started with to get my hands dirty with React JS. 
+Connect with me on Linked In - https://www.linkedin.com/in/pragalbh-mishra-266766205/
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
